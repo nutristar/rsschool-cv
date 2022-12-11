@@ -1,4 +1,5 @@
 # CV - *Denis Tsurtsylin*
+### this is my photo - [![my_photo](my_photo.png)]
 ## deniszmail@gmail.com
 ## nickname on the rs school discord server - denisTS(nutristar)
 
